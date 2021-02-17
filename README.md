@@ -1,6 +1,9 @@
-# therecorderapp
+# The Recorder Mobile
 
-A new Flutter project.
+Mobile App for a News Website - www.therecorderng.com built with Flutter
+
+## Packages Used
+- http
 
 ## Getting Started
 
